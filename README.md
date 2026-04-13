@@ -105,11 +105,6 @@ Start frontend
 cd ../client
 npm start
 
-- Frontend is live at: [**http://localhost:5137**](http://localhost:5137)
-- Backend is live at: [**http://localhost:5000**](http://localhost:5000)
-
----
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
