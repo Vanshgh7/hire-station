@@ -1,23 +1,23 @@
-# 💼 Hire station App
+# Hire station App
 
 A sleek, full-stack job portal crafted with the MERN stack. This application empowers job seekers (students) and recruiters to connect efficiently. Enjoy an animated, mobile-friendly interface where students can explore jobs, and recruiters can manage postings with minimal effort.
 
 ---
 
-## ✨ Features
+## Features
 
-### ✅ General
-- 🔐 Secure authentication with JWT
-- 👥 Distinct dashboards for students and recruiters
-- 🌐 Responsive design using Tailwind CSS & shadcn/ui
-- 🚦 Dynamic routing and smooth state transitions
+### General
+-  Secure authentication with JWT
+-  Distinct dashboards for students and recruiters
+-  Responsive design using Tailwind CSS & shadcn/ui
+-  Dynamic routing and smooth state transitions
 
-### 🎓 For Students
+### For Students
 - Search and browse current job listings
 - Apply instantly for jobs
 - Track applications via the personal dashboard
 
-### 🧑‍💼 For Recruiters
+###  For Recruiters
 - Post new job positions
 - Review and manage applicants
 - Update or remove job postings
@@ -25,7 +25,7 @@ A sleek, full-stack job portal crafted with the MERN stack. This application emp
 
 ---
 
-## 🎨 UI & Animations
+##  UI & Animations
 
 The portal looks and feels modern thanks to Tailwind CSS and shadcn/ui. Framer Motion adds seamless animations, ensuring visually appealing transitions and feedback.
 
@@ -36,9 +36,9 @@ The portal looks and feels modern thanks to Tailwind CSS and shadcn/ui. Framer M
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🧑‍💻 Frontend
+###  Frontend
 - React.js — Modular and fast
 - Tailwind CSS — Modern styling
 - shadcn/ui — Flexible UI components
@@ -46,7 +46,7 @@ The portal looks and feels modern thanks to Tailwind CSS and shadcn/ui. Framer M
 - React Router — Smooth navigation
 - Axios — Data fetching
 
-### 🖥️ Backend
+###  Backend
 - Node.js — Server-side logic
 - Express.js — API layer
 - MongoDB — Database for jobs and users
@@ -55,7 +55,7 @@ The portal looks and feels modern thanks to Tailwind CSS and shadcn/ui. Framer M
 
 ---
 
-## 🔒 Authentication Flow
+##  Authentication Flow
 
 - Users register and log in with email and password
 - JWT tokens issued for secure sessions
@@ -64,7 +64,7 @@ The portal looks and feels modern thanks to Tailwind CSS and shadcn/ui. Framer M
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 #### 1. Clone the Project
 
@@ -120,6 +120,6 @@ If you are developing a production application, we recommend using TypeScript an
 
 ---
 
-## 🙌 Contributions
+## Contributions
 
 Fork the repository, file issues, or submit pull requests—everyone is welcome to contribute and suggest improvements!
